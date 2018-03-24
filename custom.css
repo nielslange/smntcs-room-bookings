@@ -1,0 +1,36 @@
+.post-type-booking .term-description-wrap,
+.post-type-booking .term-parent-wrap,
+.post-type-booking .term-slug-wrap {
+  display:none;
+}
+
+.post-type-booking #edit-slug-box {
+  display:none;
+}
+
+.post-type-booking #post-body-content {
+  margin-bottom: 0;
+}
+
+.column-stay,
+.column-room {
+  width: 10%;
+}
+
+.column-checkin,
+.column-checkout {
+  width: 20%;
+}
+
+.column-ppn,
+.column-tp {
+  width: 12%;
+}
+
+.column-ppn {
+  text-align: right;
+}
+
+.column-tp {
+  text-align: right;
+}
